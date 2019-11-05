@@ -13,3 +13,4 @@ Learn and implement basic algorithms such as searching and sorting on different 
 
 ### Advanced Algorithms
 Build on your algorithm skills by learning more advanced algorithms such as brute-force greedy algorithms, graph algorithms, and dynamic programming which optimizes recursion by storing results to sub problems.
+20191105
